@@ -1,0 +1,24 @@
+h1{
+    font-family: cursive;
+}
+.container{
+    text-align: center;
+}
+.calci{
+    display: inline-block;
+    background-color: slategrey;
+    padding: 28px;
+}
+input{
+    font-size: 33px;
+    border: 3px solid black;
+}
+table{
+    margin: auto;
+}
+button{
+    width: 102px;
+    height:59px ;
+    font-size:40px ;
+    background-color: bisque;
+}
